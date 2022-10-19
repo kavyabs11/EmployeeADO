@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpADO", "EmpADO\EmpADO.csproj", "{32955157-2D32-4F89-9BE9-241C064B058B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32955157-2D32-4F89-9BE9-241C064B058B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32955157-2D32-4F89-9BE9-241C064B058B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32955157-2D32-4F89-9BE9-241C064B058B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32955157-2D32-4F89-9BE9-241C064B058B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BF9CBE6-365A-436E-ABE4-B40937BFCD59}
+	EndGlobalSection
+EndGlobal
